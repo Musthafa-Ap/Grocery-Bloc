@@ -28,11 +28,7 @@ class MyHomePage extends StatelessWidget {
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
-          children: const <Widget>[
-            Text(
-              'Grocery App',
-            ),
-          ],
+          children: const <Widget>[],
         ),
       ),
     );
